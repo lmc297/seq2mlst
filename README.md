@@ -88,26 +88,49 @@ seq2mlst -t sra-get -i SRR5901521 -o /path/to/output_directory -m "Escherichia c
   ### Install seq2mlst using Homebrew (macOS users)
   
   seq2mlst and its dependencies can be installed using <a href="https://brew.sh/">Homebrew</a>.
-
-1. First, install Homebrew, if necessary, by running the following command from your terminal:
+  
+  1. First, install Homebrew, if necessary, by running the following command from your terminal:
   
 ```
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 ```
 
-2. Tap Homebrew Science, if necessary, by running the following command from your terminal:
-  
+2. Install pip, if necessary, by running the following command from your terminal:
+
 ```
-brew tap homebrew/science
+sudo easy_install pip
 ```
 
-3. Tap seq2mlst by running the following command from your terminal:
+3. Install Biopython, if necessary, by running the following command from your terminal:
+
+```
+pip install biopython
+```
+Note: if you don't have permissions, you may need to use sudo:
+
+```
+sudo pip install biopython
+```
+
+4. Tap Brewsci/science, if necessary, by running the following command from your terminal:
+  
+```
+brew tap brewsci/science
+```
+
+5. Tap Brewsci/bio, if necessary, by running the following command from your terminal:
+
+```
+brew tap brewsci/bio
+```
+
+6. Tap seq2mlst by running the following command from your terminal:
   
 ```
 brew tap lmc297/homebrew-seq2mlst
 ```
 
-4. Install seq2mlst and its dependencies by running the following command from your terminal:
+7. Install seq2mlst and its dependencies by running the following command from your terminal:
   
 ```
 brew install seq2mlst

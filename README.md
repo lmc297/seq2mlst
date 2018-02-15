@@ -328,7 +328,7 @@ Leinonen, Rasko, et al. The Sequence Read Archive. *Nucleic Acids Research* 2011
 
 #### Typing Methods
 
-PubMLST *Bacillus cereus* MLST database (https://pubmlst.org/bcereus/), based on Jolley, Keith A. and Martin CJ Maiden. BIGSdb: Scalable analysis of bacterial genome variation at the population level. *BMC Bioinformatics* 2010 11:595.
+Jolley, Keith A. and Martin CJ Maiden. BIGSdb: Scalable analysis of bacterial genome variation at the population level. *BMC Bioinformatics* 2010 11:595.
 
 
 

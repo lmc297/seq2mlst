@@ -325,5 +325,13 @@ Leinonen, Rasko, et al. The Sequence Read Archive. *Nucleic Acids Research* 2011
 Jolley, Keith A. and Martin CJ Maiden. BIGSdb: Scalable analysis of bacterial genome variation at the population level. *BMC Bioinformatics* 2010 11:595.
 
 
+------------------------------------------------------------------------
+
+
+Disclaimer: seq2mlst is...pretty neat! However, no tool is perfect, and seq2mlst cannot definitively prove whether an isolate is of a particular sequence type or not. As always, interpret your results with caution. We are not responsible for taxonomic misclassifications, misclassifications of an isolate's pathogenic or antimicrobial resistance potential, and/or misinterpretations (biological, statistical, or otherwise) of seq2mlst results.
+
+
+
+
 
 

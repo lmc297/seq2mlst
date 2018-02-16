@@ -112,13 +112,19 @@ Note: if you don't have permissions, you may need to use sudo:
 sudo pip install biopython
 ```
 
-4. Tap seq2mlst by running the following command from your terminal:
+4. Tap brewsci/science, if necessary, by running the following command from your terminal:
+
+```
+brew tap brewsci/science
+```
+
+5. Tap seq2mlst by running the following command from your terminal:
   
 ```
 brew tap lmc297/homebrew-seq2mlst
 ```
 
-5. Install seq2mlst and its dependencies by running the following command from your terminal:
+6. Install seq2mlst and its dependencies by running the following command from your terminal:
   
 ```
 brew install seq2mlst

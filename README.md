@@ -11,7 +11,7 @@ Post issues at https://github.com/lmc297/seq2mlst/issues
 
 #### If you found the seq2mlst tool and/or its source code to be useful, please cite:
 
-"Carroll, Laura M. 2017. seq2mlst: *In silico* multi-locus sequence typing. Version 1.0.0. https://github.com/lmc297/seq2mlst."
+"Carroll, Laura M. 2017. seq2mlst: *In silico* multi-locus sequence typing. Version 1.0.1. https://github.com/lmc297/seq2mlst."
 
 #### To cite PubMLST (which houses the MLST databases that seq2mlst uses), please cite:
 

@@ -18,7 +18,7 @@ Post issues at https://github.com/lmc297/seq2mlst/issues
 Maiden, Martin CJ, and Keith A. Jolley. 2010. "BIGSdb: Scalable analysis of bacterial genome variation at the population level." 
 *BMC Bioinformatics* 11:595.
 
-#### If you're working with genomic data from a member of the *Bacillus cereus* group, you may fine my tool, BTyper, to be useful:
+#### If you're working with genomic data from a member of the *Bacillus cereus* group, you may find my tool, BTyper, to be useful:
 
 Carroll, Laura M., Jasna Kovac, Rachel A. Miller, Martin Wiedmann. 2017. Rapid, high-throughput identification of 
 anthrax-causing and emetic *Bacillus cereus* group genome assemblies using BTyper, a computational tool for virulence-based 

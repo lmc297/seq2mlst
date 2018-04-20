@@ -74,7 +74,7 @@ format (calls SPAdes to assemble):**
 seq2mlst -t sra -i illumina_reads.sra -o /path/to/output_directory -m "Klebsiella pneumoniae"
 ```
 
-**Using an SRA accession number corresponding to an *Escherichia coli * isolate sequenced using ILLUMINA single- or paired-end
+**Using an SRA accession number corresponding to an *Escherichia coli* isolate sequenced using ILLUMINA single- or paired-end
 reads (downloads reads from SRA, calls SPAdes to assemble):**
   
 ```
